@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/transaction/StockMovementsPanel.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/inventory/InventoryPanel.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/pos/POSPanel.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/transaction/ExportTransactionsDialog.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/auditlog/AuditLogPanel.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/auditlog/ExportAuditLogsDialog.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/dashboard/DashboardPanel.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/inventory/ProductDialog.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/model/Supplier.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/inventory/ExportReportsDialog.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/dao/CategoryDAO.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/inventory/CategoryBulkMarker.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/inventory/ImportReportsDialog.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/model/Category.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/model/Product.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_login/LoginFrame.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_login/LoginPanel.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/pos/ReceiptGenerator.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/dao/TransactionDAO.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/transaction/EditTransactionDialog.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_login/LoaderDialog.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/transaction/ImportTransactionsDialog.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/model/Transaction.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/gui/dashboard/NotificationsDialog.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/dao/NotificationDAO.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/model/Notification.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/dao/AuditLogDAO.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/util/InventoryFilterUtil.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/util/DBConnection.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/util/IconUtil.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/util/DialogUtils.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/util/JMenuBarProvider.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/util/UIConstants.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_login/RegisterPanel.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_login/ForgotPasswordPanel.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_login/SplashScreen.java</file>
+            <file>file:/C:/Users/James%20Bryant/Documents/NetBeansProjects/HardwareHub/src/hardwarehub_main/util/SystemPathUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
