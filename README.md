@@ -1,9 +1,6 @@
 # HardwareHub
 ## Created by: JCBP Solutions
-### Espino, James Bryant De la Paz
-### Mangalus, Camille Joyce Laya
-### Cruz, Sebastianne Bernard
-### Lanuza, Patrick Alfred Cruz
+### Led by: Jamespino20
 
 HardwareHub is a comprehensive, Java-based Point of Sale (POS) and Inventory Management System powered by MySQL, specifically designed for hardware stores. It provides robust features for sales, returns, restocking, adjustments, damage tracking, and extensive reporting, all wrapped in a modern, user-friendly desktop interface. This was a fun little uni thesis project for an object-oriented programming course, dedicated to a family-run hardware retail business. 
 
