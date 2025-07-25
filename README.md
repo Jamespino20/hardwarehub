@@ -127,7 +127,7 @@ Contributions are welcome! Please:
 
 ## License
 
-This project is licensed under the Apache 2.0 License. See [LICENSE](https://github.com/Jamespino20/hardwarehub/blob/main/APACHE_LICENSE.md) for details.
+This project is licensed under the Apache 2.0 License. See [LICENSE](https://github.com/Jamespino20/hardwarehub/blob/master/APACHE_LICENSE.md) for details.
 
 ---
 
